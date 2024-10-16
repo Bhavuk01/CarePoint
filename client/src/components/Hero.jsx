@@ -11,9 +11,7 @@ const Hero = () => {
           Our Responsibility
         </h1>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
-          tenetur doloremque molestias repellat minus asperiores in aperiam
-          dolor, quaerat praesentium.
+        At Care Point, we make it simple for you to connect with our expert medical professionals. Our user-friendly platform allows you to easily book appointments with doctors, specialists, and healthcare providers at your convenience.
         </p>
       </div>
       <div className="hero-img">
